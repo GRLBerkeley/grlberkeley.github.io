@@ -39,16 +39,16 @@ TABLE OF CONTENT
   |
   ------------------------------------------------------------*/
 
-  --ui-color-brand: #353535;
+  --ui-color-brand: #cc45f5;
 
   /* COLOR PALETTE */
 
   --ui-color-n-000: #fff;
-  --ui-color-n-025: #fafafa;
-  --ui-color-n-050: #f5f5f5;
-  --ui-color-n-300: #aeaeae;
-  --ui-color-n-500: #353535;
-  --ui-color-n-900: #1a1a1a;
+  --ui-color-n-025: #9a77c5;
+  --ui-color-n-050: #f1abeb;
+  --ui-color-n-300: #e9e082;
+  --ui-color-n-500: #ffa2a2;
+  --ui-color-n-900: #8d4747;
 
   /* BACKGROUND COLOR */
   
@@ -296,9 +296,10 @@ svg {
 .ui-section-header {
   padding-bottom: 1.25rem;
   padding-top: 1.25rem;
+  background-color:  --ui-color-n-025;
 }
 
-.ui-section-header__layout { justify-content: space-between; }
+.ui-section-header__layout { justify-content: center; }
 
 /*--------------------------------------------------------------
 |
