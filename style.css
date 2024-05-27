@@ -294,9 +294,11 @@ svg {
 --------------------------------------------------------------*/
 
 .ui-section-header {
-  padding-bottom: 1.25rem;
-  padding-top: 1.25rem;
-  background-color:  --ui-color-n-025;
+  padding-bottom: 60px;
+  padding-top: 60px;
+  background:  --ui-color-n-025;
+  color: white;
+  font-size: 30px
 }
 
 .ui-section-header__layout { justify-content: center; }
