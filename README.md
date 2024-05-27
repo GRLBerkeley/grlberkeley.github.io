@@ -1,9 +1,5 @@
 # Welcome to GRL Berkeley!
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+###### _Lambda Chapter | University of California, Berkeley | Est. 2012_
 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
