@@ -1,95 +1,29 @@
-# Welcome to GRL Berkeley!
-###### _Lambda Chapter | University of California, Berkeley | Est. 2012_
+# Information
 
+Uisual is a collection of free landing page templates designed by Indonesian designer, [El Nino](https://github.com/elnino). There's no JS, only plain HTML and CSS. I'm creating Uisual as a portfolio to get a job, whether it's freelance, part-time, full-time, or contract. If you're interested in hiring me, feel free to [send me an email](mailto:elnino@uisual.com).
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+## How to Use
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+It's plain HTML and CSS really. You don't need to install or learn any frameworks. As long as you know how to edit HTML and CSS, you can start customizing our templates right away. We made our templates black and white for a reason, so you can customize them the way you want more easily. Think of it as a wireframe. Change the images, copy, typefaces, etc. Add some background colors, gradients, box shadows, etc. We use CSS variables of course.
 
-Combined emphasis with **asterisks and _underscores_**.
+## Questions Answered
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+#### Why are your templates so bland?
 
+Think of it as a wireframe. It's black and white because we want you to customize it yourself. You need some creativity to combine colors, typefaces, box shadows, etc. Play around, make it yours.
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+#### Are your templates responsive?
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+Yes, we designed our templates responsively (320px, 768px, 1024px, and 1200px).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+#### Can I sell products with your templates?
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+Yes, you can sell apps, ebooks, extensions, etc.
 
+#### Do I need to credit you?
 
+No, but that would be cool.
 
-[I'm an inline-style link](https://www.google.com)
+## What's Next
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-
-
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-
-var s = "JavaScript syntax highlighting";
-alert(s);
-
-s = "Python syntax highlighting"
-print s
-
-
-No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
-But let's throw in a <b>tag</b>.
+We plan to add more templates, new template every week. Visit [Uisual](https://uisual.com) for an update. If you like our templates, please spread the word. If you need a custom landing page, you can [hire us](mailto:studio@uisual.com).
