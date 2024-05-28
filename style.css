@@ -143,11 +143,8 @@ body {
 3.0 TYPOGRAPHY
 --------------------------------------------------------------*/
 
-a {
-  color: var(--ui-color-brand);
-  text-decoration: none;
-}
-
+/*a { color: var(--ui-color-brand); text-decoration: none; }*/
+/*
 h1,
 h2,
 p,
@@ -168,7 +165,7 @@ h2 {
   font-size: var(--ui-typography-h2);
   line-height: var(--ui-typography-h2-leading);
 }
-
+*/
 p,
 ul { margin-bottom: var(--ui-typography-margin-body); }
 
@@ -189,14 +186,14 @@ small { font-size: var(--ui-typography-s); }
 /*--------------------------------------------------------------
 4.0 IMAGE
 --------------------------------------------------------------*/
-
+/*
 img,
 svg {
   display: block;
   height: auto;
   margin: 0 auto;
   max-width: 100%;
-}
+}*/
 
 /*--------------------------------------------------------------
 5.0 LAYOUT
