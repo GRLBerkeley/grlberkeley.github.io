@@ -296,7 +296,7 @@ svg {
   text-align: left;
   padding-bottom: 60px;
   padding-top: 60px;
-  position: fixed;
+  /*position: fixed;*/
   background-color: var(--ui-color-background-tertiary);
   color: var(-ui-color-n-000);
   font-size: 30px
