@@ -295,16 +295,16 @@ svg {
 --------------------------------------------------------------*/
 
 .ui-section-header {
-  text-align: center;
+  text-align: right;
   padding-bottom: 60px;
   position: fixed;
   padding-top: 60px;
   background-color: var(--ui-color-background-tertiary);
-  color: white;
+  color: var(--ui-color-n-000);
   font-size: 30px
 }
 
-.ui-section-header__layout { justify-content: right; }
+.ui-section-header__layout { position:fixed; }
 
 /*--------------------------------------------------------------
 |
@@ -316,10 +316,10 @@ svg {
   padding-bottom: 5rem;
   padding-top: 5rem;
   background-color: var(--ui-color-background-tertiary);
-  text-align: center;
+  text-align: left;
 }
 
-.ui-section-hero--image { margin-top: var(--ui-gap-hero); }
+/*.ui-section-hero--image { margin-top: var(--ui-gap-hero); }*/
 
 /*--------------------------------------------------------------
 |
