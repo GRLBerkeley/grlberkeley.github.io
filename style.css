@@ -297,13 +297,14 @@ svg {
 .ui-section-header {
   text-align: center;
   padding-bottom: 60px;
+  position: fixed;
   padding-top: 60px;
   background-color: var(--ui-color-background-tertiary);
   color: white;
   font-size: 30px
 }
 
-.ui-section-header__layout { justify-content: center; }
+.ui-section-header__layout { justify-content: right; }
 
 /*--------------------------------------------------------------
 |
