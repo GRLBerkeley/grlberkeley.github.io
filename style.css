@@ -303,7 +303,7 @@ svg {
 }
 
 .ui-section-header__layout { 
-  position:fixed; 
+  /*position:fixed; */
 }
 
 /*--------------------------------------------------------------
@@ -318,6 +318,19 @@ svg {
   background-image: url('https://cdn.pixabay.com/photo/2019/10/30/15/13/pride-4589773_1280.jpg');
   text-align: left;
   color: --ui-color-n-200;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /*.ui-section-hero--image { margin-top: var(--ui-gap-hero); }*/
