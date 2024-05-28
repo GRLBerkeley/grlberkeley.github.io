@@ -297,16 +297,17 @@ svg {
 --------------------------------------------------------------*/
 
 .ui-section-header {
-  text-align: right;
+  text-align: left;
   padding-bottom: 60px;
-  position: fixed;
   padding-top: 60px;
   background-color: var(--ui-color-background-tertiary);
   color: var(-ui-color-n-000);
   font-size: 30px
 }
 
-.ui-section-header__layout { position:fixed; }
+.ui-section-header__layout { 
+  position:fixed; 
+}
 
 /*--------------------------------------------------------------
 |
