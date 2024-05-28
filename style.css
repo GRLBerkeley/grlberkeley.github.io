@@ -313,7 +313,7 @@ svg {
 --------------------------------------------------------------*/
 
 .ui-section-hero {
-  padding-bottom: 10rem;
+  padding-bottom: 20rem; /*has this caused the distaster?*/
   padding-top: 10rem;
   background-image: url('https://cdn.pixabay.com/photo/2019/10/30/15/13/pride-4589773_1280.jpg');
   text-align: left;
