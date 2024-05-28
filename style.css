@@ -315,7 +315,7 @@ svg {
 .ui-section-hero {
   padding-bottom: 5rem;
   padding-top: 5rem;
-  background-color: var(--ui-color-background-tertiary);
+  background-image: url('https://cdn.pixabay.com/photo/2019/10/30/15/13/pride-4589773_1280.jpg');
   text-align: left;
 }
 
