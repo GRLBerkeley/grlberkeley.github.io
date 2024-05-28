@@ -46,10 +46,12 @@ TABLE OF CONTENT
   --ui-color-n-000: #fff;
   --ui-color-n-025: #9a77c5;
   --ui-color-n-050: #f1abeb;
+  --ui-color-n-100: #000000;
+  --ui-color-n-200: #4a9df0;
   --ui-color-n-300: #e9e082;
   --ui-color-n-500: #ffa2a2;
   --ui-color-n-900: #8d4747;
-  --ui-color-n-100: #000000;
+  
 
   /* BACKGROUND COLOR */
   
@@ -300,7 +302,7 @@ svg {
   position: fixed;
   padding-top: 60px;
   background-color: var(--ui-color-background-tertiary);
-  color: var(--ui-color-n-000);
+  color: var(-ui-color-n-000);
   font-size: 30px
 }
 
@@ -317,6 +319,7 @@ svg {
   padding-top: 5rem;
   background-image: url('https://cdn.pixabay.com/photo/2019/10/30/15/13/pride-4589773_1280.jpg');
   text-align: left;
+  color: var(-ui-color-n-000);
 }
 
 /*.ui-section-hero--image { margin-top: var(--ui-gap-hero); }*/
