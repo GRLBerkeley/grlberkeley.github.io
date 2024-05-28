@@ -313,8 +313,10 @@ svg {
 --------------------------------------------------------------*/
 
 .ui-section-hero {
-  padding-bottom: 40rem; /*this is not the cause of the disaster*/
-  padding-top: 40rem;
+  padding-bottom: 10rem; /*this is not the cause of the disaster*/
+  padding-top: 10rem;
+  margin-top: 20rem;
+  margin-bottom: 20rem;
   background-image: url('https://cdn.pixabay.com/photo/2019/10/30/15/13/pride-4589773_1280.jpg');
   text-align: left;
   color: --ui-color-n-200;
