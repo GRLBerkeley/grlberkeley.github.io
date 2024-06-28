@@ -39,7 +39,7 @@ TABLE OF CONTENT
   |
   ------------------------------------------------------------*/
 
-  --ui-color-brand: #cc45f5;
+
 
   /* COLOR PALETTE */
 
@@ -50,6 +50,8 @@ TABLE OF CONTENT
   --ui-color-n-200: #4a9df0;
   --ui-color-n-300: #e9e082;
   --ui-color-n-900: #8d4747;
+
+  --ui-color-brand: var(--ui-color-n-025);
   
 
   /* BACKGROUND COLOR */
