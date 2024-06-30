@@ -210,7 +210,7 @@ svg {
 .ui-layout-grid {
   align-items: center;
   justify-content: center;
-  display: grid;
+
 }
 
 .ui-layout-flex {
@@ -219,7 +219,7 @@ svg {
     justify-content: space-evenly;
 }
 
-
+.ui-layout-grid { display: grid; }
 
 /*--------------------------------------------------------------
 6.0 COMPONENT
