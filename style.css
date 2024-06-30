@@ -323,7 +323,7 @@ svg {
 }
 
 .ui-section-hero-about {
-    background-image: url('./grl-full-chapter.jpeg');
+    background-image: url('/grl-full-chapter.jpeg');
     text-align: left;
     color: --ui-color-n-200;
 }
