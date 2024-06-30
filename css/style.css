@@ -206,15 +206,20 @@ svg {
   padding-right: var(--ui-layout-container);
 }
 
-.ui-layout-flex,
+
 .ui-layout-grid {
   align-items: center;
   justify-content: center;
+  display: grid;
 }
 
-.ui-layout-flex { display: flex; }
+.ui-layout-flex {
+    display: flex;
+    align-items: left;
+    justify-content: space-evenly;
+}
 
-.ui-layout-grid { display: grid; }
+
 
 /*--------------------------------------------------------------
 6.0 COMPONENT
