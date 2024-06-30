@@ -48,6 +48,14 @@
           <!-- COPYWRITING -->
           <div class="ui-layout-column-6 ui-layout-column-center">
             <div class="container">
+              <script>
+                const canvas = document.getElementById("ui-section-hero");
+                const ctx = canvas.getContext("2d");
+                ctx.fillStyle = "red";
+                ctx.beginPath();
+                ctx.ellipse(60, 75, 50, 30, Math.PI * 0.25, 0, Math.PI * 1.5);
+                ctx.fill();
+              </script>
               <img src="img/purple.png" alt="purple" style="width:150%;">
               <div class="centered">
                 <h1><br><br>Gamma Rho Lambda Berkeley</h1>
