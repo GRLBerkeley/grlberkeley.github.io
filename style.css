@@ -322,6 +322,12 @@ svg {
   color: --ui-color-n-200;
 }
 
+.ui-section-hero-about {
+    background-image: url('./grl-full-chapter');
+    text-align: left;
+    color: --ui-color-n-200;
+}
+
 .container {
   position: relative;
   text-align: center;
