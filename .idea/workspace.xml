@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5297461-25b1-4e69-9c2e-9cd789c409ba" name="Changes" comment="" />
+    <list default="true" id="e5297461-25b1-4e69-9c2e-9cd789c409ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/queer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/queer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,21 +38,27 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2h40JnMB5pLAiRjOOVDjGMHqm1f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ruhib/grlberkeley.github.io"
+    "last_opened_file_path": "/Users/ruhib/grlberkeley.github.io/css"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -105,5 +122,8 @@
       <updated>1716837973379</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

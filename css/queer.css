@@ -114,7 +114,7 @@ TABLE OF CONTENT
   /* BORDER RADIUS */
   
   --ui-radius-avatar: 5rem;
-  --ui-radius-button: 5rem;
+  --ui-radius-button: 10rem;
 
 }
 
@@ -206,13 +206,20 @@ svg {
   padding-right: var(--ui-layout-container);
 }
 
-.ui-layout-flex,
 .ui-layout-grid {
   align-items: center;
   justify-content: center;
 }
 
-.ui-layout-flex { display: flex; }
+
+
+
+
+.ui-layout-flex {
+    display: flex;
+    align-items: left;
+    justify-content: space-evenly;
+}
 
 .ui-layout-grid { display: grid; }
 
@@ -238,27 +245,31 @@ svg {
 --------------------------------------------------------------*/
 
 .ui-component-button {
-  border: .0625rem solid var(--ui-color-brand);
+  border: 0.625rem solid var(ui-color-n-000);
   border-radius: var(--ui-radius-button);
   display: block;
   font-weight: 700;
   line-height: 1;
   text-align: center;
+  text-decoration: none;
 }
 
 .ui-component-button-primary {
   background-color: var(--ui-color-brand);
   color: var(--ui-color-typography-button);
+  text-decoration: none;
 }
 
 .ui-component-button-normal {
   padding: .75rem 1rem .875rem;
   width: fit-content;
+  text-decoration: none;
 }
 
 .ui-component-button-small {
   font-size: var(--ui-typography-s);
   padding: .5rem .75rem .5625rem;
+  text-decoration: none;
 }
 
 /*--------------------------------------------------------------
@@ -323,7 +334,9 @@ svg {
 }
 
 .ui-section-hero-about {
-    background-image: url('img/grl-full-chapter.jpeg');
+    background-image: url('../img/pride.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: left;
     color: --ui-color-n-200;
 }
