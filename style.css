@@ -773,6 +773,11 @@ svg {
     padding-top: 7.5rem;
   }
 
+  .ui-section-hero-about {
+      padding-bottom: 7.5rem;
+      padding-top: 7.5rem;
+    }
+
   /*------------------------------------------------------------
   |
   | CUSTOMER
